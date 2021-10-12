@@ -32,7 +32,7 @@ github_username: jekyll
 domain: BrainyGroup/javascript.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 # Exclude from processing.
